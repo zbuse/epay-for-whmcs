@@ -1,0 +1,20 @@
+{
+  "schema": "v1.3",
+  "type": "whmcs-gateways",
+  "name": "epay",
+  "license": "MIT",
+  "category": "payments",
+  "description": {
+    "name": "彩虹易支付",
+      "tagline": "聚合支付解决方案。"
+  },
+  "support": {
+    "homepage": "https:\/\/pay.cccyun.cc\/",
+  },
+  "authors": [
+    {
+      "name": "Anonymous",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}
